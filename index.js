@@ -42,7 +42,7 @@ console.log(newWord);
 
 let fruits = ["Apple", "Banana", "Guava", "Pawpaw", "Grapes", "Avocado", "Pear", "strawberry", "Peaches", "Pineapple"];
 let newFruits = fruits.splice(4, 0, 'Tomato');
-console.log(newFruits);
+console.log(fruits);
 
 
 
